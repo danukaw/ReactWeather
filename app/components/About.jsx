@@ -15,11 +15,7 @@ var About = (props) => {
             <a href="http://openweathermap.org">OpenWeatherMap</a> - I used to OpenWeatherMap to search weather data by city name.
           </li>
         </ul>
-
     </div>
-
   );
-
 }
-
 module.exports= About;
